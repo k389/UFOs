@@ -31,7 +31,7 @@ JavaScript, Bootstrap, CSS, VS Code
 		- used forEach to loop through the filters and display data that matches the filter values.
 	- Used d3.selectAll().on() to attach event listener to pick up changes and use the Filter Table button.
 - Further Recommendation
-	- The page is using of data source (data.js), which can be limited. 
+	- The page is using one data source (data.js), which can be limited. 
 	- the developer can update the page by finding news articles (other current resources) and scarape the data to display on the page. This will give the most current infromation on the topic.
 	- the developer also can also can customize the page to have the background change every time it is refreshed instead of having one background image. 
 
